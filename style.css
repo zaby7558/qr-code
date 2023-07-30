@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(160, 208, 251);
+    text-align: center;
+}
+
+
+
+.back-box {
+    background-color: white;
+    height: 400px;
+    width: 250px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 15px;
+    align-items: center;
+    display: inline-block;
+}
+
+.blue-box {
+    background-color: #3a79de;
+    height: 60%;
+    width: 90%;
+    margin: 15px auto;
+    border-radius: 15px;
+}
+
+.text1 {
+    width: 80%;
+    margin: auto auto 10% auto;
+}
+
+.text2 {
+    width: 80%;
+    margin: auto;
+}
+
+.qr-code {
+    border-radius: 15px;
+    height: 100%;
+    width: 100%;
+}
